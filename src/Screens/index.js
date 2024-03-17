@@ -1,0 +1,10 @@
+export {default as SignIn} from './Auth/SignIn';
+export {default as SignUp} from './Auth/SignUp';
+export {default as ForgetPassword} from './Auth/ForgetPassword';
+export {default as OTP} from './Auth/OTP';
+export {default as ResetPassword} from './Auth/ResetPassword';
+export {default as Home} from './Main/Home';
+export {default as Evaluation} from './Main/Evaluation';
+export {default as UpdateProfile} from './Main/UpdateProfile';
+export {default as WeightHistoryGraph} from './Main/WeightHistoryGraph';
+export {default as EvaluationGraph} from './Main/EvaluationGraph';
